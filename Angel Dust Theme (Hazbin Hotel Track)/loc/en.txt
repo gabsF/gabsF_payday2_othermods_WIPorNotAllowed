@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_hh_angel_dust_song" : "Slutty Spider Polka Pop",
+    "menu_jukebox_screen_hh_angel_dust_song" : "Slutty Spider Polka Pop"
+}

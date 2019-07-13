@@ -1,0 +1,9 @@
+<table name="hh_angel_dust_song">
+    <Localization directory="loc" default="en.txt"/>
+    <HeistMusic id="hh_angel_dust_song" directory="sounds">
+        <event name="setup" source="stealth.ogg"/>
+        <event name="anticipation" start_source="antici.ogg" source="anticiloop.ogg"/>
+        <event name="assault" start_source="assaultintro.ogg" source="assault.ogg"/>
+        <event name="control" start_source="controlintro.ogg" source="control.ogg"/>
+    </HeistMusic>
+</table>
